@@ -1,1 +1,3 @@
-console.log('hello JSV');
+import router from './routes';
+
+window.addEventListener('load', router);
